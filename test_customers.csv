@@ -1,0 +1,6 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+TEST001,Female,0,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,80.00,80.00
+TEST002,Male,1,No,No,24,Yes,No,DSL,Yes,Yes,No,No,No,No,Two year,No,Bank transfer (automatic),55.50,1332.00
+TEST003,Female,0,Yes,Yes,48,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),105.75,5076.00
+TEST004,Male,0,No,No,6,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,35.25,211.50
+TEST005,Female,1,Yes,No,72,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),85.60,6163.20
