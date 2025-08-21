@@ -4,7 +4,7 @@
 **Project**: Telco Customer Churn Predictor  
 **Version**: 1.0  
 **Implementation Date**: August 2025  
-**Implementation Analyst**: [Your Name]
+**Implementation Analyst**: [ DHANWIN SANGISHETTY]
 
 ---
 
@@ -338,4 +338,5 @@ QUERY_TIMEOUT = 30  # seconds
 - **Document Owner**: Implementation Analyst
 
 ---
+
 
